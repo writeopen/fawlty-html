@@ -1,0 +1,14 @@
+{
+  "name": "fawlty-html",
+  "version": "0.0.1",
+  "description": "a HTML renderer",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec"
+  },
+  "author": "Peter MacMillan <peter@macmillan.io>",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.18.2"
+  }
+}
